@@ -1,1 +1,1 @@
-Project management with Git -Lab
+Project management with Git 
